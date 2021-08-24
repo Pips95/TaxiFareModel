@@ -1,0 +1,15 @@
+artifact_uri: file:///home/filippo/code/Pips95/TaxiFareModel/mlruns/1/5a82cedb3f7e4eaf9830ccc4df657aec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5a82cedb3f7e4eaf9830ccc4df657aec
+run_uuid: 5a82cedb3f7e4eaf9830ccc4df657aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1629815949428
+status: 1
+tags: []
+user_id: unknown

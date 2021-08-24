@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/data?select=test.csv
+HostUrl=https://storage.googleapis.com/kagglesdsdata/competitions/10170/61318/test.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1630061605&Signature=S7%2BSesgGRc%2B6Gp6yO8WM2dubRa9kg5VxcQx9YmMuUyLYK6nhrOdgl88vDfAhYesymzJkoavvsj6WPrUj%2FOZNiqmHEslugooFuCQcErJ2T%2FixRTzmnm%2BQlPFvo8MdxCHcjYwo57%2BhgfxnDtLk6yhxuaPXvu5PnbH5%2BzB9jy%2FMg6JkOwvFDomBhrdqrauEY1J38J%2FiVpG7JgZuo2QudhaX1sVNKJ%2F7Z3dfMi7Clt%2FC6O2wQqKEKjScwXM3LWxbOVSQleJLOl1S9IDy%2BdKZnfELHRm9pHlv35Lk6jFXXDCgf%2F3R4oovjtVNxbgFGBMnUbiLxhD9m%2BhWNFjR70MpGC7Y3A%3D%3D&response-content-disposition=attachment%3B+filename%3Dtest.csv
